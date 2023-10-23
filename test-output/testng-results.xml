@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-10-23T13:19:13 EET" name="Default suite" finished-at="2023-10-23T13:19:15 EET" duration-ms="1705">
+    <groups>
+    </groups>
+    <test started-at="2023-10-23T13:19:13 EET" name="Default test" finished-at="2023-10-23T13:19:15 EET" duration-ms="1705">
+      <class name="ms">
+        <test-method is-config="true" signature="myBeforTest()[pri:0, instance:ms@65f87a2c]" started-at="2023-10-23T13:19:13 EET" name="myBeforTest" finished-at="2023-10-23T13:19:15 EET" duration-ms="1425" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myBeforTest -->
+        <test-method signature="myTestOne()[pri:0, instance:ms@65f87a2c]" started-at="2023-10-23T13:19:15 EET" name="myTestOne" finished-at="2023-10-23T13:19:15 EET" duration-ms="208" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myTestOne -->
+        <test-method is-config="true" signature="myAfterTest()[pri:0, instance:ms@65f87a2c]" started-at="2023-10-23T13:19:15 EET" name="myAfterTest" finished-at="2023-10-23T13:19:15 EET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myAfterTest -->
+      </class> <!-- ms -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
